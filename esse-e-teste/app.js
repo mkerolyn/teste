@@ -9,7 +9,7 @@ function exibirAlerta() {
 }
 
 function exibirPrompt() {
-    let nomeDaCidade = prompt('Digite o nome de uma cidade do Brasil:');
+    let nomeDaCidade = prompt('Digite o NOME de uma cidade do Brasil:');
     alert(`Estive em ${nomeDaCidade} e lembrei de você! <3`);
 }
 
